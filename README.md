@@ -7,4 +7,6 @@
 ### Task2 贝叶斯后验图像分割
 ### Task3 svm二分类(with PCA 直方图均衡化)
 ### Task4 CNN图像二分类(with CAM)
-### ml 全连接三分类网络
+### ml全连接三分类网络
+### cv intro 图像拼接 resnet
+
